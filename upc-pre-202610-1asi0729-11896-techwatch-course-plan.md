@@ -39,7 +39,7 @@ Editores en línea recomendados (cualquiera sirve):
 
 ## Secuencia de Lecciones
 
-### Lección 1: Primeros pasos en Java (≈12 min)
+### Lección 1: Primeros pasos en Java (≈14 min)
 
 - **Descripción:** Descubre qué es la programación, por qué Java es un buen
   lenguaje para empezar y escribe tu primer programa. Luego aprende a guardar
@@ -48,8 +48,8 @@ Editores en línea recomendados (cualquiera sirve):
   (`int`, `double`, `char`, `boolean`, `String`); usar operadores `+ - * / %`.
 - **Conceptos clave:** programa, `main`, variable, tipo de dato, concatenación,
   división entera vs. decimal.
-- 🎬 **Ver la lección:** `⚠️ COMPLETAR: enlace de YouTube`
-- 💻 **Practicar:** `⚠️ COMPLETAR: enlace al editor en línea` · ¡No necesitas registrarte!
+- 🎬 **Ver la lección:** https://youtu.be/gxTkc3jSQ0U?si=_19UfPDHVTBRl25U
+- 💻 **Practicar:** https://www.jdoodle.com/ga/RIxiVK65YK4JmPs96re15g%3D%3D
 - 📂 **Código base:** `starter-files/lesson01-primeros-pasos/`
 
 ### Lección 2: Interacción y decisiones (≈12 min)
