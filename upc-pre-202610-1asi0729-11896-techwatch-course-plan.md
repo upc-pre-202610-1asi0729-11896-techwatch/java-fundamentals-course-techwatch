@@ -73,8 +73,8 @@ Editores en línea recomendados (cualquiera sirve):
   retorno; pasar parámetros y usar `return`.
 - **Conceptos clave:** iteración, contador, condición de fin, método, parámetro,
   valor de retorno, `void`.
-- 🎬 **Ver la lección:** `⚠️ COMPLETAR: enlace de YouTube`
-- 💻 **Practicar:** `⚠️ COMPLETAR: enlace al editor en línea`
+- 🎬 **Ver la lección:** https://youtu.be/09yJ6bgRsiQ
+- 💻 **Practicar:** `https://www.jdoodle.com/ga/DPiy%2BSLbhq7DTXAC3IV%2BfA%3D%3D
 - 📂 **Código base:** `starter-files/lesson03-bucles-metodos/`
 
 ### Lección 4: Programación Orientada a Objetos (≈12 min)
@@ -111,7 +111,7 @@ Editores en línea recomendados (cualquiera sirve):
 |----|---------|--------------------|-----------------|
 | 1  | Primeros pasos en Java | Mostrar datos, variables y operadores | [Abrir en JDoodle](https://www.jdoodle.com/ga/RIxiVK65YK4JmPs96re15g%3D%3D) |
 | 2  | Interacción y decisiones | Leer datos y decidir (`Scanner`, `if`, `switch`) | `⚠️ COMPLETAR` |
-| 3  | Repetir y reutilizar | Bucles y métodos | `⚠️ COMPLETAR` |
+| 3  | Repetir y reutilizar | Bucles y métodos | [Abrir en JDoodle](https://www.jdoodle.com/ga/DPiy%2BSLbhq7DTXAC3IV%2BfA%3D%3D)|
 | 4  | Programación Orientada a Objetos | Clases, objetos y encapsulación | `⚠️ COMPLETAR` |
 | 5  | Proyecto final y buenas prácticas | Arrays de objetos y proyecto integrador | [Abrir en JDoodle](https://www.jdoodle.com/ga/%2BGWdED48tS6vRTvA8GdFEQ%3D%3D) |
 
