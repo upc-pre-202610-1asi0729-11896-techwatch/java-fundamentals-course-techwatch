@@ -21,7 +21,7 @@ con editores de código en línea y gratuitos.
 > https://github.com/upc-pre-202610-1asi0729-11896-techwatch/java-fundamentals-course-techwatch
 >
 > ▶️ **Lista de reproducción en YouTube (no listada):**
-> `⚠️ COMPLETAR: enlace de la lista de reproducción`
+> https://www.youtube.com/playlist?list=PLJRD6AouUzcQax3l6PYg-78nnGGjn5wIU
 
 ---
 
@@ -98,8 +98,8 @@ Editores en línea recomendados (cualquiera sirve):
   encapsulación en un caso real; reconocer errores frecuentes de principiantes.
 - **Conceptos clave:** array de objetos, integración de conceptos, legibilidad,
   comparar texto con `.equals()`, división entera inesperada.
-- 🎬 **Ver la lección:** `⚠️ COMPLETAR: enlace de YouTube`
-- 💻 **Proyecto final:** `⚠️ COMPLETAR: enlace al editor en línea` · ¡Guarda y comparte tu proyecto!
+- 🎬 **Ver la lección:** https://youtu.be/OpZSaXI4Jng
+- 💻 **Proyecto final:** https://www.jdoodle.com/ga/%2BGWdED48tS6vRTvA8GdFEQ%3D%3D · ¡Guarda y comparte tu proyecto!
 - 📂 **Código base:** `starter-files/lesson05-proyecto-final/`
 
 ---
@@ -112,7 +112,7 @@ Editores en línea recomendados (cualquiera sirve):
 | 2  | Interacción y decisiones | Leer datos y decidir (`Scanner`, `if`, `switch`) | `⚠️ COMPLETAR` |
 | 3  | Repetir y reutilizar | Bucles y métodos | `⚠️ COMPLETAR` |
 | 4  | Programación Orientada a Objetos | Clases, objetos y encapsulación | `⚠️ COMPLETAR` |
-| 5  | Proyecto final y buenas prácticas | Arrays de objetos y proyecto integrador | `⚠️ COMPLETAR` |
+| 5  | Proyecto final y buenas prácticas | Arrays de objetos y proyecto integrador | [Abrir en JDoodle](https://www.jdoodle.com/ga/%2BGWdED48tS6vRTvA8GdFEQ%3D%3D) |
 
 ---
 
@@ -181,4 +181,4 @@ Docente: Efraín Ricardo Bautista Ubillús
 | U202019498 | Fernández Garfias, Alexander Piero |
 | U20221B756 | Becerra Durand, Sebastian Uriel |
 
-**Fecha de entrega:** `⚠️ COMPLETAR`
+**Fecha de entrega:** 19 de junio de 2026

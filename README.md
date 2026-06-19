@@ -11,7 +11,7 @@ Este repositorio contiene el **código fuente** de las prácticas y el
 > [upc-pre-202610-1asi0729-11896-techwatch-course-plan.md](upc-pre-202610-1asi0729-11896-techwatch-course-plan.md)
 >
 > ▶️ **Lista de videos (YouTube, no listada):**
-> `⚠️ COMPLETAR: pegar el enlace de la lista de reproducción`
+> https://www.youtube.com/playlist?list=PLJRD6AouUzcQax3l6PYg-78nnGGjn5wIU
 
 ---
 
