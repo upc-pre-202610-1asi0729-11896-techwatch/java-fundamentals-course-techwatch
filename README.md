@@ -12,6 +12,7 @@ Este repositorio contiene el **código fuente** de las prácticas y el
 >
 > ▶️ **Lista de videos (YouTube, no listada):**
 > https://www.youtube.com/playlist?list=PLJRD6AouUzcQax3l6PYg-78nnGGjn5wIU
+> https://youtu.be/gxTkc3jSQ0U?si=kR8QSmNJko73VDGQ
 
 ---
 
