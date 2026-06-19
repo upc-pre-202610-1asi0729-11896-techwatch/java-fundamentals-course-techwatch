@@ -22,6 +22,7 @@ con editores de código en línea y gratuitos.
 >
 > ▶️ **Lista de reproducción en YouTube (no listada):**
 > https://www.youtube.com/playlist?list=PLJRD6AouUzcQax3l6PYg-78nnGGjn5wIU
+> https://youtu.be/gxTkc3jSQ0U?si=kR8QSmNJko73VDGQ
 
 ---
 
@@ -108,7 +109,7 @@ Editores en línea recomendados (cualquiera sirve):
 
 | #  | Lección | Concepto principal | Editor en línea |
 |----|---------|--------------------|-----------------|
-| 1  | Primeros pasos en Java | Mostrar datos, variables y operadores | `⚠️ COMPLETAR` |
+| 1  | Primeros pasos en Java | Mostrar datos, variables y operadores | [Abrir en JDoodle](https://www.jdoodle.com/ga/RIxiVK65YK4JmPs96re15g%3D%3D) |
 | 2  | Interacción y decisiones | Leer datos y decidir (`Scanner`, `if`, `switch`) | `⚠️ COMPLETAR` |
 | 3  | Repetir y reutilizar | Bucles y métodos | `⚠️ COMPLETAR` |
 | 4  | Programación Orientada a Objetos | Clases, objetos y encapsulación | `⚠️ COMPLETAR` |
