@@ -86,7 +86,7 @@ Editores en línea recomendados (cualquiera sirve):
   setters (con validación).
 - **Conceptos clave:** clase, objeto, atributo, método, constructor, `this`,
   `new`, `private`, getter/setter.
-- 🎬 **Ver la lección:** `⚠️ COMPLETAR: enlace de YouTube`
+- 🎬 **Ver la lección:** `https://youtu.be/a-pkWl-AbdU`
 - 💻 **Practicar:** `⚠️ COMPLETAR: enlace al editor en línea`
 - 📂 **Código base:** `starter-files/lesson04-poo-clases/`
 
@@ -112,7 +112,7 @@ Editores en línea recomendados (cualquiera sirve):
 | 1  | Primeros pasos en Java | Mostrar datos, variables y operadores | [Abrir en JDoodle](https://www.jdoodle.com/ga/RIxiVK65YK4JmPs96re15g%3D%3D) |
 | 2  | Interacción y decisiones | Leer datos y decidir (`Scanner`, `if`, `switch`) | `⚠️ COMPLETAR` |
 | 3  | Repetir y reutilizar | Bucles y métodos | [Abrir en JDoodle](https://www.jdoodle.com/ga/DPiy%2BSLbhq7DTXAC3IV%2BfA%3D%3D)|
-| 4  | Programación Orientada a Objetos | Clases, objetos y encapsulación | `⚠️ COMPLETAR` |
+| 4  | Programación Orientada a Objetos | Clases, objetos y encapsulación | [Abrir en JDoodle]https://youtu.be/a-pkWl-AbdU |
 | 5  | Proyecto final y buenas prácticas | Arrays de objetos y proyecto integrador | [Abrir en JDoodle](https://www.jdoodle.com/ga/%2BGWdED48tS6vRTvA8GdFEQ%3D%3D) |
 
 ---
